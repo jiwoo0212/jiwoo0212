@@ -7,7 +7,7 @@
 [✏BLOG](https://second-ounce-cbb.notion.site/JIWOO-s-Log-d97dfd60bad94ed38702ed00c5946f90)
 
 ## ✨Interst
-`AI`, `RecommendationSystem`, `ComputerVision`
+`AI`, `RecommendationSystem`, `Search`, `ComputerVision`, `NLP` 
 
 ## ⛏Skill Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
