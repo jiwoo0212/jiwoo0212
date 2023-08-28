@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=black"/>
 
 
-![JIWOO's github stats](https://github-readme-stats.vercel.app/api?username=jiwoo0212&show_icons=true&theme=tokyonight)
+
