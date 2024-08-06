@@ -1,4 +1,4 @@
-# Kang Jiwoo
+# 🖐️Kang Jiwoo
 안녕하세요. AI를 공부중인 강지우입니다. 
 
 ## ✨Interst
