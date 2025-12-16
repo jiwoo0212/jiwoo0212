@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Weights & Biases&logoColor=black"/>
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=black"/>
 
 <!--
@@ -19,3 +18,4 @@
 배운 내용을 blog에 업로드하고 있습니다.
 [✏BLOG](https://second-ounce-cbb.notion.site/JIWOO-s-Log-d97dfd60bad94ed38702ed00c5946f90)
 -->
+<!-- <img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Weights & Biases&logoColor=black"/> -->
