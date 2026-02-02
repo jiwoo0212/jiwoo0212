@@ -1,4 +1,4 @@
-# Kang Jiwoo
+# Jiwoo Kang
 - M.S. Student, Graduate School of Artificial Intelligence, UNIST
 
 ## ✨Interst
